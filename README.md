@@ -55,19 +55,3 @@
 提供常用工具类，如AES对称加密算法类，RSA非对称加密算法类，唯一主键生成类，订单号生成类，8位邀请码生成类，图形验证码生成类，md5加密类，网络http请求工具类等
 
 
-## [关于我](http://heminit.com/about/)
-
-
-欢迎交流问题，可加我的个人QQ 469580884，或群号 751925591，一起探讨交流问题
-
-
-[我的博客地址](http://blog.csdn.net/hemin1003)
-
-
-[个人域名](http://heminit.com)
-
-## 感谢
-如果觉得内容赞，您可以请我喝一杯咖啡：
-<br/>
-<img src="http://cdn.popstar.toponegames.mobi/img/wechat.jpeg" width="240px" height="240px" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="http://cdn.popstar.toponegames.mobi/img/alipay.jpeg" width="240px" height="240px" />
